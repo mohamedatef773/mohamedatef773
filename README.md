@@ -2,7 +2,7 @@
 
 <h1>Mohamed Atef</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?pause=2000&color=6FF71E&center=true&vCenter=true&width=435&lines=Ai+Devolper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?pause=2000&color=6FF71E&center=true&vCenter=true&width=435&lines=Ai+Developer)](https://git.io/typing-svg)
 </div>
 <p align="center">
     <a href="https://www.linkedin.com/in/mohamed-atef-7b183223b/">
