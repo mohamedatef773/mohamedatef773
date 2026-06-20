@@ -36,7 +36,7 @@
 
 ### 💻 Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,flutter,dart,fastapi,flask,mysql,docker,git,github,linux,notion" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,flutter,dart,fastapi,flask,mysql,git,github" alt="Tech Stack" />
 </p>
 
 **Core Competencies:**
